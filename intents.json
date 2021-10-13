@@ -8,7 +8,8 @@
           "How are you",
           "Is anyone there?",
           "Hello",
-          "Good day"
+          "Good day",
+          "Hiya"
         ],
         "responses": [
           "Hey :-)",
@@ -36,11 +37,12 @@
         "patterns": [
           "Which items do you have?",
           "What kinds of items are there?",
-          "What do you sell?"
+          "What do you sell?",
+          "What kind of things do you have here?"
         ],
         "responses": [
-          "We sell coffee and tea",
-          "We have coffee and tea"
+          "We sell branded clothes",
+          "We sell clothes and shoes"
         ]
       },
       {
@@ -49,7 +51,8 @@
           "Do you take credit cards?",
           "Do you accept Mastercard?",
           "Can I pay with Paypal?",
-          "Are you cash only?"
+          "Are you cash only?",
+          "Do you accept payment on delivery?"
         ],
         "responses": [
           "We accept VISA, Mastercard and Paypal",
@@ -61,11 +64,12 @@
         "patterns": [
           "How long does delivery take?",
           "How long does shipping take?",
-          "When do I get my delivery?"
+          "When do I get my delivery?",
+          "After how long will you deliver?"
         ],
         "responses": [
-          "Delivery takes 2-4 days",
-          "Shipping takes 2-4 days"
+          "Delivery takes 5-10 days",
+          "Shipping takes 5-10 days"
         ]
       },
       {
@@ -73,11 +77,16 @@
         "patterns": [
           "Tell me a joke!",
           "Tell me something funny!",
-          "Do you know a joke?"
+          "Do you know a joke?",
+          "Do you know anything other than selling?",
+          "Do you know anything else, like a joke or something?",
+          "I'm not in a good mood, cheer me up?"
         ],
         "responses": [
           "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
-          "What did the buffalo say when his son left for college? Bison."
+          "What did the buffalo say when his son left for college? Bison.",
+          "I'm afraid for the calendar. Its days are numbered.",
+          "Singing in the shower is fun until you get soap in your mouth. Then it's a soap opera."
         ]
       }
     ]
