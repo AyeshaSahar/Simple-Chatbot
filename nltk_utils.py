@@ -22,7 +22,7 @@ def bag_of_words(tokenized_sentence, all_words):
     
     return bag
 
-# Test to see if our bag_of_words func is working or not
+# A simple est to see if our bag_of_words function is working or not
 # sentence = ["hello", "how", "are", "you"]
 # words = ["hi", "hello","i", "bye", "you", "thank", "cool"]
 # bag = bag_of_words(sentence, words)
